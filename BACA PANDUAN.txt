@@ -1,0 +1,10 @@
+==== BACA DAHULU =====
+1. Extrak file cat.zip ke directory htdocs
+2. buat database cat di phpmyadmin
+3. import database cat.sql
+4. jalankan dengan ketik http://localhost/cat di browser
+
+
+===
+Aplikasi ini di buat oleh Lex Padang
+Contact : eleksonpadang@gmail.com
